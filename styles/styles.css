@@ -30,6 +30,8 @@ li {
 
 img {
   vertical-align: top;
+  width: 800px;
+  height: 600px;
 }
 html,
 body {
@@ -76,8 +78,7 @@ body {
 
 .image-slider__image {
   text-align: center;
-  width: 800px;
-  height: 600px;
+  
 }
 
 .image-slider__image img {
