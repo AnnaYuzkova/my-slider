@@ -30,8 +30,7 @@ li {
 
 img {
   vertical-align: top;
-  width: 800px;
-  height: 600px;
+  
 }
 html,
 body {
@@ -66,6 +65,11 @@ body {
 
 .image-slider {
   padding: 30px 0 70px 0;
+}
+
+.name {
+  width: 800px;
+  height: 600px;
 }
 
 /* .image-slider__wrapper {
